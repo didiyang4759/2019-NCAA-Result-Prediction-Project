@@ -1,6 +1,6 @@
 #  Data Modeling Project
  ##  2019 NCAA  Division I Men’s Basketball Tournament Result Prediction
- 
+ - [Code_Checking_ipnyb](https://github.com/didiyang4759/Data_Modeling_2019-NCAA-Result-Prediction-Project/blob/main/Modeling/FinalProject_Team14_asfor1202_2137.ipynb)
  - [Backgroud](#backgroud)
 - [INTRODUCTION AND BUSINESS PROBLEM](#introduction-and-business-problem)
   * [a.Introduction](#aintroduction)
