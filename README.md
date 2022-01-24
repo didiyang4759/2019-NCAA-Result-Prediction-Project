@@ -1,4 +1,7 @@
-- [Backgroud](#backgroud)
+#  Data Modeling Project
+ ##  2019 NCAA  Division I Men’s Basketball Tournament Result Prediction
+ 
+ - [Backgroud](#backgroud)
 - [INTRODUCTION AND BUSINESS PROBLEM](#introduction-and-business-problem)
   * [a.Introduction](#aintroduction)
   * [b.Business Problem](#bbusiness-problem)
@@ -20,10 +23,8 @@
 - [K Nearest Neighbors](#k-nearest-neighbors)
 - [Appendix](#appendix)
 
-![Related image](https://lh6.googleusercontent.com/6BHC9kuuNq_OLxYqAA9Kq_NmX_Yl2T3TsJrK06yUS1cvvJfwxC0HLVuBFpz7h6c88Eni8EOAXE5g2BWUnRIItD0FSX3W8weRMr2NPJoAMi6mQ4vPbUrnIUa3uYiqoUci4_RC_T2fXVDtB41DsQ)
 
-#  Data Modeling Project
- ##  2019 NCAA  Division I Men’s Basketball Tournament Result Prediction
+![Related image](https://lh6.googleusercontent.com/6BHC9kuuNq_OLxYqAA9Kq_NmX_Yl2T3TsJrK06yUS1cvvJfwxC0HLVuBFpz7h6c88Eni8EOAXE5g2BWUnRIItD0FSX3W8weRMr2NPJoAMi6mQ4vPbUrnIUa3uYiqoUci4_RC_T2fXVDtB41DsQ)
 
 ### **1.  EXEVUTIVE SUMMARY**
     
