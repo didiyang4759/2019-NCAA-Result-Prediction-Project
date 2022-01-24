@@ -1,5 +1,7 @@
 #  Data Modeling Project
  ##  2019 NCAA  Division I Men’s Basketball Tournament Result Prediction
+ ![Related image](https://lh6.googleusercontent.com/6BHC9kuuNq_OLxYqAA9Kq_NmX_Yl2T3TsJrK06yUS1cvvJfwxC0HLVuBFpz7h6c88Eni8EOAXE5g2BWUnRIItD0FSX3W8weRMr2NPJoAMi6mQ4vPbUrnIUa3uYiqoUci4_RC_T2fXVDtB41DsQ)
+ 
  - [Code_Checking_ipnyb](https://github.com/didiyang4759/Data_Modeling_2019-NCAA-Result-Prediction-Project/blob/main/Modeling/FinalProject_Team14_asfor1202_2137.ipynb)
  - [Backgroud](#backgroud)
 - [INTRODUCTION AND BUSINESS PROBLEM](#introduction-and-business-problem)
@@ -24,7 +26,7 @@
 - [Appendix](#appendix)
 
 
-![Related image](https://lh6.googleusercontent.com/6BHC9kuuNq_OLxYqAA9Kq_NmX_Yl2T3TsJrK06yUS1cvvJfwxC0HLVuBFpz7h6c88Eni8EOAXE5g2BWUnRIItD0FSX3W8weRMr2NPJoAMi6mQ4vPbUrnIUa3uYiqoUci4_RC_T2fXVDtB41DsQ)
+
 
 ### **1.  EXEVUTIVE SUMMARY**
     
